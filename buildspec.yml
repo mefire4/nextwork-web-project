@@ -20,5 +20,5 @@ artifacts:
     - target/*.war
     - appspec.yml
     - scripts/**/*
-  discard-paths: no
 
+  discard-paths: no
